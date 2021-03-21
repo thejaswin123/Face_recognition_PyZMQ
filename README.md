@@ -1,6 +1,5 @@
 # Face_recognition_PyZMQ
 
-# Face Recognition Using PyZMQ
 This application uses concept of client side and server side data transfer.</br>
 
 The project is divided into 2 parts face recogination and client and server side data trasfer
